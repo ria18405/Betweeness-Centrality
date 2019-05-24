@@ -1,6 +1,7 @@
 # Betweeness-Centrality
 To run the python file, 
-   python3 SBC.py
+
+      python3 SBC.py
 
 This program finds the top-’k’ nodes which have exact largest Standardized Betweenness Centrality score. The standardized Betweenness Centrality Score(SBC) is stored in  a variable by the name of max_SBC.  
 
